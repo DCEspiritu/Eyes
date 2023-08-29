@@ -3,7 +3,7 @@
 This project demonstrates how to use HTML, CSS and Javascript together by creating a web page where two eyes follow your mouse curser. 
 
 ## How to Run:
-Download the index.html file and open it within a browser. Move your mouse curser around the browser window and watch as the eyes follow it around.
+Download the files making sure they are in the same folder, they have the same file names and open index.html within a browser. Move your mouse curser around the browser window and watch as the eyes follow it around.
 
 ## Roadmap of future improvements:
 Future improvements would be to add more art to the page and/or even more eyes. I would add an image in the background to make it seem like the eyes are on a creature or animal or person. Also changing the image of the eyes to be more realistic.
